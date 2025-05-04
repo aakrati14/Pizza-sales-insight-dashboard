@@ -23,7 +23,8 @@ This project is a **Sales Insights Dashboard** created using **Excel** and **SQL
 ---
 
 ## 📷 Dashboard Snapshot
-![Dashboard Screenshot](dashboard_screenshot.png) <!-- Replace with actual image name if needed -->
+![Dashboard Screenshot](![04 05 2025_13 04 50_REC](https://github.com/user-attachments/assets/7623503a-6818-4922-87d5-1583642a3250)
+) <!-- Replace with actual image name if needed -->
 
 ---
 
